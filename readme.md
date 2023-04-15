@@ -7,5 +7,6 @@ uvicorn nft_server:app --reload
 ```
 
 ```
-http://localhost:8000/offers/boredapeyachtclubgoerli
+http://localhost:8000/offers/{slug}
+http://localhost:8000/stats/{slug}
 ```
