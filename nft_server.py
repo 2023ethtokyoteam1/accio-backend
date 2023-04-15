@@ -5,11 +5,14 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from typing import Dict, Any, List
 import asyncio
 import time
+from dotenv import dotenv_values
+import os
 
 app = FastAPI()
 scheduler = AsyncIOScheduler()
+config = dotenv_values(".env")
 
-API_KEY = "4e9eeab87bc94be3a4f054a7b545e27d"
+API_KEY = config["API_KEY"]
 OPENSEA_API_URL = "https://api.opensea.io/api/v2/listings/collection/{collection_slug}/all?limit=30"
 OPENSEA_API_ASSET_URL = "https://api.opensea.io/api/v1/assets?token_ids={token_id}&collection_slug={collection_slug}&include_orders=false"
 OPENSEA_API_COL_STAT = "https://api.opensea.io/api/v1/collection/{collection_slug}/stats"
