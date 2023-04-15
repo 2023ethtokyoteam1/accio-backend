@@ -1,0 +1,648 @@
+{
+  "offers": [
+    {
+      "order_hash": "0x746974b931bd82f984da9ffd0d43079ffee1f4951c06d54fa06ac213dc8bc71c",
+      "chain": "ethereum",
+      "criteria": {
+        "collection": {
+          "slug": "nakamigos"
+        },
+        "contract": {
+          "address": "0xd774557b647330c91bf44cfeab205095f7e6c367"
+        },
+        "trait": null
+      },
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0xb3fae64e83897e5887d0303f7def233da2913c89",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "41000000000000000",
+              "endAmount": "41000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xd774557b647330C91Bf44cfEAB205095f7E6c367",
+              "identifierOrCriteria": "20268748183993957234699842156105172982045960155812222462011970311782330503770",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0xb3FaE64e83897e5887D0303f7DEf233da2913c89"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "205000000000000",
+              "endAmount": "205000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "2050000000000000",
+              "endAmount": "2050000000000000",
+              "recipient": "0xFcA634387CD89128116b80E04C6352a4e7c5A40C"
+            }
+          ],
+          "startTime": "1679504865",
+          "endTime": "1680106050",
+          "orderType": 2,
+          "zone": "0x000000e7Ec00e7B300774b00001314B8610022b8",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe000000000000000000000000000000000000000004a8181cab9f0c7f",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": null
+      },
+      "protocol_address": "0x00000000000001ad428e4906ae43d8f9852d0dd6"
+    },
+    {
+      "order_hash": "0x2f318f7e26eaee1a119c681f7ffd6eb3c874c0e81d86cbf2efbfb95b77035cae",
+      "chain": "ethereum",
+      "criteria": {
+        "collection": {
+          "slug": "nakamigos"
+        },
+        "contract": {
+          "address": "0xd774557b647330c91bf44cfeab205095f7e6c367"
+        },
+        "trait": null
+      },
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0xb3fae64e83897e5887d0303f7def233da2913c89",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "44000000000000000",
+              "endAmount": "44000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xd774557b647330C91Bf44cfEAB205095f7E6c367",
+              "identifierOrCriteria": "57363755935017242960375604780622039031474728238913636805512133708500358834736",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0xb3FaE64e83897e5887D0303f7DEf233da2913c89"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "220000000000000",
+              "endAmount": "220000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "2200000000000000",
+              "endAmount": "2200000000000000",
+              "recipient": "0xFcA634387CD89128116b80E04C6352a4e7c5A40C"
+            }
+          ],
+          "startTime": "1679505130",
+          "endTime": "1680106316",
+          "orderType": 2,
+          "zone": "0x000000e7Ec00e7B300774b00001314B8610022b8",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe00000000000000000000000000000000000000005e1878eb2599847e",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": null
+      },
+      "protocol_address": "0x00000000000001ad428e4906ae43d8f9852d0dd6"
+    },
+    {
+      "order_hash": "0x81d880018c3196d03cca71cd4efadeae363f43c00c929c9a0b8e59d280def54e",
+      "chain": "ethereum",
+      "criteria": {
+        "collection": {
+          "slug": "nakamigos"
+        },
+        "contract": {
+          "address": "0xd774557b647330c91bf44cfeab205095f7e6c367"
+        },
+        "trait": null
+      },
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0xb3fae64e83897e5887d0303f7def233da2913c89",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "48000000000000000",
+              "endAmount": "48000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xd774557b647330C91Bf44cfEAB205095f7E6c367",
+              "identifierOrCriteria": "103730553228626600308974977730521551989233134043983712216926270641090864180528",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0xb3FaE64e83897e5887D0303f7DEf233da2913c89"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "240000000000000",
+              "endAmount": "240000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "2400000000000000",
+              "endAmount": "2400000000000000",
+              "recipient": "0xFcA634387CD89128116b80E04C6352a4e7c5A40C"
+            }
+          ],
+          "startTime": "1679505176",
+          "endTime": "1680106366",
+          "orderType": 2,
+          "zone": "0x000000e7Ec00e7B300774b00001314B8610022b8",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe0000000000000000000000000000000000000000b9ca23030a1334c5",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": null
+      },
+      "protocol_address": "0x00000000000001ad428e4906ae43d8f9852d0dd6"
+    },
+    {
+      "order_hash": "0x2952d9ca1d23c0a39634168505fe6464aa8b61db736cb3d037d5c5a6ea0d9da6",
+      "chain": "ethereum",
+      "criteria": {
+        "collection": {
+          "slug": "nakamigos"
+        },
+        "contract": {
+          "address": "0xd774557b647330c91bf44cfeab205095f7e6c367"
+        },
+        "trait": null
+      },
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0x75c030e0b931a5866f603733f2a9fe8f43782087",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "7000000000000000",
+              "endAmount": "7000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xd774557b647330C91Bf44cfEAB205095f7E6c367",
+              "identifierOrCriteria": "6547442514064218706776444860977742681940288758412209232703334151142613486540",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0x75C030E0B931A5866F603733F2A9Fe8F43782087"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "35000000000000",
+              "endAmount": "35000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "350000000000000",
+              "endAmount": "350000000000000",
+              "recipient": "0xFcA634387CD89128116b80E04C6352a4e7c5A40C"
+            }
+          ],
+          "startTime": "1679521020",
+          "endTime": "1680125807",
+          "orderType": 2,
+          "zone": "0x000000e7Ec00e7B300774b00001314B8610022b8",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe00000000000000000000000000000000000000007dc81a8e63a1e1ae",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": null
+      },
+      "protocol_address": "0x00000000000001ad428e4906ae43d8f9852d0dd6"
+    },
+    {
+      "order_hash": "0x22a7159d5a00cd8b46e216418cffa44fdb670659c781a4b1cc29ce3617be7d46",
+      "chain": "ethereum",
+      "criteria": {
+        "collection": {
+          "slug": "nakamigos"
+        },
+        "contract": {
+          "address": "0xd774557b647330c91bf44cfeab205095f7e6c367"
+        },
+        "trait": null
+      },
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0xeaf54391793cc80de696d72713d7518c6190bfe0",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "5000000000000000",
+              "endAmount": "5000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xd774557b647330C91Bf44cfEAB205095f7E6c367",
+              "identifierOrCriteria": "6547442514064218706776444860977742681940288758412209232703334151142613486540",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0xEAF54391793cc80DE696d72713d7518c6190bfe0"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "25000000000000",
+              "endAmount": "25000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "250000000000000",
+              "endAmount": "250000000000000",
+              "recipient": "0xFcA634387CD89128116b80E04C6352a4e7c5A40C"
+            }
+          ],
+          "startTime": "1679523604",
+          "endTime": "1680128394",
+          "orderType": 2,
+          "zone": "0x000000e7Ec00e7B300774b00001314B8610022b8",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe00000000000000000000000000000000000000008b15a1603fd8f5b1",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": null
+      },
+      "protocol_address": "0x00000000000001ad428e4906ae43d8f9852d0dd6"
+    },
+    {
+      "order_hash": "0x8f6eb9185423364b3ec6be9d6a3d66553330693ac35736387c57d05018d4618c",
+      "chain": "ethereum",
+      "criteria": {
+        "collection": {
+          "slug": "nakamigos"
+        },
+        "contract": {
+          "address": "0xd774557b647330c91bf44cfeab205095f7e6c367"
+        },
+        "trait": {
+          "type": "Type",
+          "value": "Balloon"
+        }
+      },
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0x644a374620a088445820ae76b20b8bb542bfce72",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "50000000000000000",
+              "endAmount": "50000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xd774557b647330C91Bf44cfEAB205095f7E6c367",
+              "identifierOrCriteria": "20155441535386243712498939732180072486109676925562053271669543139744866435015",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0x644A374620A088445820aE76b20B8Bb542BfCE72"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "250000000000000",
+              "endAmount": "250000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "2500000000000000",
+              "endAmount": "2500000000000000",
+              "recipient": "0xFcA634387CD89128116b80E04C6352a4e7c5A40C"
+            }
+          ],
+          "startTime": "1679557572",
+          "endTime": "1680162190",
+          "orderType": 2,
+          "zone": "0x000000e7Ec00e7B300774b00001314B8610022b8",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe0000000000000000000000000000000000000000ecc0a42161da67dd",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": null
+      },
+      "protocol_address": "0x00000000000001ad428e4906ae43d8f9852d0dd6"
+    },
+    {
+      "order_hash": "0x00044faab315ac8283bfaeb7595033c6ef32c603607aaa225b47c73328092c49",
+      "chain": "ethereum",
+      "criteria": {
+        "collection": {
+          "slug": "nakamigos"
+        },
+        "contract": {
+          "address": "0xd774557b647330c91bf44cfeab205095f7e6c367"
+        },
+        "trait": null
+      },
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0xe73185a8afa703a034d5a5fe038bb763fcaeb5f3",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "2888000000000000",
+              "endAmount": "2888000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xd774557b647330C91Bf44cfEAB205095f7E6c367",
+              "identifierOrCriteria": "50984237344597952672507139802002436293509296819378602863191463086760876648409",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0xe73185A8Afa703a034D5A5fE038BB763fcAEB5F3"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "14440000000000",
+              "endAmount": "14440000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "144400000000000",
+              "endAmount": "144400000000000",
+              "recipient": "0xFcA634387CD89128116b80E04C6352a4e7c5A40C"
+            }
+          ],
+          "startTime": "1679584651",
+          "endTime": "1679840247",
+          "orderType": 2,
+          "zone": "0x000000e7Ec00e7B300774b00001314B8610022b8",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe0000000000000000000000000000000000000000ba6e4d9e5fd2e2af",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": null
+      },
+      "protocol_address": "0x00000000000001ad428e4906ae43d8f9852d0dd6"
+    },
+    {
+      "order_hash": "0x87865f553ca57cdeaa90ff133d7aa82e07787ed32328618b1eb968aa58344748",
+      "chain": "ethereum",
+      "criteria": {
+        "collection": {
+          "slug": "nakamigos"
+        },
+        "contract": {
+          "address": "0xd774557b647330c91bf44cfeab205095f7e6c367"
+        },
+        "trait": null
+      },
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0x3c735c95f50990f57483d2a55c43e5f47e61d13c",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "11000000000000000",
+              "endAmount": "11000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xd774557b647330C91Bf44cfEAB205095f7E6c367",
+              "identifierOrCriteria": "22909100320928387854723027355323017008470725256822161380248055040203991591529",
+              "startAmount": "1",
+              "endAmount": "1",
+              "recipient": "0x3C735C95f50990F57483d2a55C43E5F47e61D13C"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "55000000000000",
+              "endAmount": "55000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "550000000000000",
+              "endAmount": "550000000000000",
+              "recipient": "0xFcA634387CD89128116b80E04C6352a4e7c5A40C"
+            }
+          ],
+          "startTime": "1679590910",
+          "endTime": "1679850082",
+          "orderType": 2,
+          "zone": "0x000000e7Ec00e7B300774b00001314B8610022b8",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe000000000000000000000000000000000000000085241c385f66fed7",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": null
+      },
+      "protocol_address": "0x00000000000001ad428e4906ae43d8f9852d0dd6"
+    },
+    {
+      "order_hash": "0x82ca9b963986dcc81960d4c5616191a652de74657a8ed87387bc799b593c6295",
+      "chain": "ethereum",
+      "criteria": {
+        "collection": {
+          "slug": "nakamigos"
+        },
+        "contract": {
+          "address": "0xd774557b647330c91bf44cfeab205095f7e6c367"
+        },
+        "trait": null
+      },
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0xd951b004893474e20bd759da56ac08ace4aa871d",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "24600000000000000",
+              "endAmount": "24600000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xd774557b647330C91Bf44cfEAB205095f7E6c367",
+              "identifierOrCriteria": "71464843538933283817851189512718687939179855667764924467490878057127501393702",
+              "startAmount": "2",
+              "endAmount": "2",
+              "recipient": "0xD951B004893474E20bD759dA56ac08ACe4aa871D"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "123000000000000",
+              "endAmount": "123000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "1230000000000000",
+              "endAmount": "1230000000000000",
+              "recipient": "0xFcA634387CD89128116b80E04C6352a4e7c5A40C"
+            }
+          ],
+          "startTime": "1679593775",
+          "endTime": "1680198562",
+          "orderType": 3,
+          "zone": "0x000000e7Ec00e7B300774b00001314B8610022b8",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe00000000000000000000000000000000000000008197950107a60a22",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": null
+      },
+      "protocol_address": "0x00000000000001ad428e4906ae43d8f9852d0dd6"
+    },
+    {
+      "order_hash": "0x4f2cca00a5afac89e4c82d0ce3bdfcd239b983cab28c877e2d53a5bd4919ec7a",
+      "chain": "ethereum",
+      "criteria": {
+        "collection": {
+          "slug": "nakamigos"
+        },
+        "contract": {
+          "address": "0xd774557b647330c91bf44cfeab205095f7e6c367"
+        },
+        "trait": null
+      },
+      "protocol_data": {
+        "parameters": {
+          "offerer": "0xd191441efd409fb3ddf1992b0af2f9955d447c97",
+          "offer": [
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "100000000000000000",
+              "endAmount": "100000000000000000"
+            }
+          ],
+          "consideration": [
+            {
+              "itemType": 4,
+              "token": "0xd774557b647330C91Bf44cfEAB205095f7E6c367",
+              "identifierOrCriteria": "71464843538933283817851189512718687939179855667764924467490878057127501393702",
+              "startAmount": "10",
+              "endAmount": "10",
+              "recipient": "0xd191441EfD409Fb3dDF1992B0AF2f9955d447C97"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "500000000000000",
+              "endAmount": "500000000000000",
+              "recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+            },
+            {
+              "itemType": 1,
+              "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+              "identifierOrCriteria": "0",
+              "startAmount": "5000000000000000",
+              "endAmount": "5000000000000000",
+              "recipient": "0xFcA634387CD89128116b80E04C6352a4e7c5A40C"
+            }
+          ],
+          "startTime": "1679593958",
+          "endTime": "1680198736",
+          "orderType": 3,
+          "zone": "0x000000e7Ec00e7B300774b00001314B8610022b8",
+          "zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "salt": "0x360c6ebe0000000000000000000000000000000000000000146f265fd5478adc",
+          "conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+          "totalOriginalConsiderationItems": 3,
+          "counter": 0
+        },
+        "signature": null
+      },
+      "protocol_address": "0x00000000000001ad428e4906ae43d8f9852d0dd6"
+    }
+  ],
+  "next": "cGs9ODU5MjY1ODcxOCZjcmVhdGVkX2RhdGU9MjAyMy0wMy0yMysxNyUzQTUzJTNBNDcuMTQzODQ4"
+}
